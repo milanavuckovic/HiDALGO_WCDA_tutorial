@@ -1,9 +1,8 @@
-name: wcda-environment
+
+name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - netcdf4
   - xarray
   - dask
   - cdsapi
-  - pip
