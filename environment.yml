@@ -7,3 +7,4 @@ dependencies:
   - dask
   - cdsapi
   - matplotlib
+  - cfgrib
