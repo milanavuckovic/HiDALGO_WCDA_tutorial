@@ -1,5 +1,6 @@
-<img src="images/one_logo.png" width=700/>
 # HiDALGO Weather and Climate data API tutorial
+
+<img src="images/one_logo.png" width=700/>
 
 Jupyter notebooks for HiDALGO Weather and climate data api tutoarial December 2020
 
