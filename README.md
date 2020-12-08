@@ -1,4 +1,7 @@
-# HiDALGO_WCDA_tutorial
+![HiDALGO ECMWF](/images/one_logo.png?raw=true)
+
+# HiDALGO Weather and Climate data API tutorial
+
 Jupyter notebooks for HiDALGO Weather and climate data api tutoarial December 2020
 
 Mybinder link for the tutorial:
